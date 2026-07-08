@@ -2,81 +2,89 @@
 
 
 
+Version: 1.0
+
+
+
 Mission:
 
-
-
-Track Everything.
-
-Analyze Everything.
-
-Protect Every Streak.
-
-Recommend High Impact Actions.
-
-Generate Content Automatically.
-
-Require User Approval.
-
-Execute Automatically After Approval.
+Build a Personal Career Operating System for AI Engineering.
 
 
 
-Core Principles:
+Core Functions:
 
 
 
-1\. Approval Required
+1\. Track
 
-2\. Automation First
+\- GitHub
 
-3\. Career Growth Focus
+\- Kaggle
 
-4\. Evidence-Based Recommendations
+\- LeetCode
 
-5\. Long-Term Maintainability
+\- HackerRank
 
-6\. Zero-Cost Student Friendly
-
-
-
-Platforms:
+\- Hugging Face
 
 
 
-GitHub
+2\. Analyze
 
-Kaggle
+\- Repositories
 
-Hugging Face
+\- Skills
 
-LeetCode
+\- Profile Strength
 
-HackerRank
-
-LinkedIn
-
-Twitter/X
-
-Medium
-
-Telegram
+\- Career Growth
 
 
 
-Primary Goals:
+3\. Recommend
+
+\- Daily Tasks
+
+\- Weekly Goals
+
+\- Monthly Goals
 
 
+
+4\. Approve
+
+\- LinkedIn Posts
+
+\- Twitter Posts
+
+\- Medium Articles
+
+
+
+5\. Execute
+
+\- Publish Content
+
+\- Send Reports
+
+\- Trigger Automations
+
+
+
+6\. Measure
 
 \- Internship Readiness
 
 \- Placement Readiness
 
-\- AI Engineering Growth
+\- AI Engineer Score
 
-\- Consistency Tracking
+\- Visibility Score
 
-\- Content Visibility
 
-\- Portfolio Development
+
+Rule:
+
+Nothing publishes without user approval.
 
